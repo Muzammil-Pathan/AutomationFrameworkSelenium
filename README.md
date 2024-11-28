@@ -233,7 +233,7 @@ Document DataFaker: https://www.datafaker.net/documentation/getting-started/
 or of Anh Tester blog: https://anhtester.com/blog/selenium-java/tao-du-lieu-gia-voi-datafaker
 
 
-### 🔆 Project structure
+### 🔆 Project structure.
 
 ```
 📦AutomationFrameworkSelenium
